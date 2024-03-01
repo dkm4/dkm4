@@ -10,7 +10,7 @@ I am an aspiring AI developer pledging a mission to make AI for human developmen
 * ✉️  You can contact me at [dkmred4407@gmail.com](mailto:dkmred4407@gmail.com)
 * 🧠  I'm learning application of computer visioning and convolution neural network on AI model
 * 🤝  I'm open to collaborating on AI projects on practical AI usage on environment filed, deep learning on image classification model, devloping transformer architecture
-* ⚡  Check my blog concerning environmental problems! http://daniel4407445182352.wordpress.com/
+* ⚡  http://daniel4407445182352.wordpress.com/
 
 ### Skills
 
@@ -23,3 +23,13 @@ I am an aspiring AI developer pledging a mission to make AI for human developmen
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/dkm4" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+
+### Badges
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/dkm4/Multi-class-classification-model-" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dkm4&repo=Multi-class-classification-model-&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/dkm4/Fully-connected-neural-network-project" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dkm4&repo=Fully-connected-neural-network-project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/dkm4/Iris-classification-problem" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dkm4&repo=Iris-classification-problem&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/dkm4/Wordle-game" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dkm4&repo=Wordle-game&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
