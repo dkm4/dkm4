@@ -10,7 +10,7 @@ I am an aspiring AI developer pledging a mission to make AI for human developmen
 * ✉️  You can contact me at [dkmred4407@gmail.com](mailto:dkmred4407@gmail.com)
 * 🧠  I'm learning application of computer visioning and convolution neural network on AI model
 * 🤝  I'm open to collaborating on AI projects on practical AI usage on environment filed, deep learning on image classification model, devloping transformer architecture
-* ⚡  http://daniel4407445182352.wordpress.com/
+* ⚡  Check my blog concerning environmental problems! http://daniel4407445182352.wordpress.com/
 
 ### Skills
 
